@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zeidan Jiddou</title>
+    <link>https://Zeidan43.github.io/</link>
+    <description>Recent content on Zeidan Jiddou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language><atom:link href="https://Zeidan43.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://Zeidan43.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Zeidan43.github.io/projects/</guid>
+      <description>vh k,; ;l;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://Zeidan43.github.io/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://Zeidan43.github.io/resume/</guid>
+      <description>I&amp;rsquo;m Zeidan Jiddou, I study Applied Statistics and Data Scientist at Polytechnique of Nouakchott.
+Have a look at some of my working projects.
+For more check out my academic &amp;amp; professional resume.
+Contact me at [21016@esp.mr].</description>
+    </item>
+    
+  </channel>
+</rss>
