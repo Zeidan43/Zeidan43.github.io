@@ -5,6 +5,25 @@
     <link>https://Zeidan43.github.io/categories/</link>
     <description>Recent content in Categories on Zeidan Jiddou</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language><atom:link href="https://Zeidan43.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <lastBuildDate>Tue, 30 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://Zeidan43.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>projects</title>
+      <link>https://Zeidan43.github.io/categories/projects/</link>
+      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://Zeidan43.github.io/categories/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://Zeidan43.github.io/categories/resume/</link>
+      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://Zeidan43.github.io/categories/resume/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

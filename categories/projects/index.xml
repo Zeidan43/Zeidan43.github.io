@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zeidan Jiddou</title>
-    <link>https://Zeidan43.github.io/</link>
-    <description>Recent content on Zeidan Jiddou</description>
+    <title>projects on Zeidan Jiddou</title>
+    <link>https://Zeidan43.github.io/categories/projects/</link>
+    <description>Recent content in projects on Zeidan Jiddou</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 30 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://Zeidan43.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://Zeidan43.github.io/categories/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Projects</title>
       <link>https://Zeidan43.github.io/projects/</link>
@@ -22,18 +22,6 @@ March 2023
 Data Challenge
 Data Turing
 The objective was to build a predictive model capable of predicting the probability of a student passing the Mauritanian Baccalaureate examination.</description>
-    </item>
-    
-    <item>
-      <title>Resume</title>
-      <link>https://Zeidan43.github.io/resume/</link>
-      <pubDate>Tue, 30 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://Zeidan43.github.io/resume/</guid>
-      <description>I&amp;rsquo;m Zeidan Jiddou, I study Applied Statistics and Data Scientist at Polytechnique of Nouakchott.
-Have a look at some of my working projects.
-For more check out my academic &amp;amp; professional resume.
-Contact me at [21016@esp.mr].</description>
     </item>
     
   </channel>
